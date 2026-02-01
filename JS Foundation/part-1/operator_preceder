@@ -1,0 +1,5 @@
+let score =(( 2 * (3 + 2)) - 1);
+console.log(score);
+
+//refer to javascript operator precedence table
+//https://www.w3schools.com/js/js_precedence.asp
